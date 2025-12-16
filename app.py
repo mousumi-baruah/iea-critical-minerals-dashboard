@@ -197,3 +197,14 @@ st.dataframe(ranking_display, use_container_width=True)
 # =================================================
 with st.expander("Show underlying time-series data"):
     st.dataframe(filtered)
+# =================================================
+# Footer: data source and citation
+# =================================================
+st.markdown("---")
+
+st.caption(
+    "Data source: International Energy Agency (IEA), Critical Minerals Data Explorer. "
+    "Scenarios: STEPS and NZE. "
+    "This dashboard is provided for research and analytical purposes."
+)
+
