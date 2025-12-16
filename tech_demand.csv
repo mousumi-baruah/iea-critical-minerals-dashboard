@@ -1,0 +1,865 @@
+mineral,technology,scenario,year,demand_kt
+Chromium - Mining,Wind,STEPS,2024,66.1026
+Chromium - Mining,Wind,STEPS,2030,96.3407
+Chromium - Mining,Wind,STEPS,2035,87.2184
+Chromium - Mining,Wind,STEPS,2040,74.7576
+Chromium - Mining,Wind,STEPS,2045,82.649
+Chromium - Mining,Wind,STEPS,2050,103.508
+Chromium - Mining,Wind,NZE,2030,132.832
+Chromium - Mining,Wind,NZE,2035,121.542
+Chromium - Mining,Wind,NZE,2040,108.13
+Chromium - Mining,Wind,NZE,2045,112.572
+Chromium - Mining,Wind,NZE,2050,153.385
+Chromium - Mining,Wind,NZE,2030,173.024
+Chromium - Mining,Wind,NZE,2035,187.602
+Chromium - Mining,Wind,NZE,2040,137.575
+Chromium - Mining,Wind,NZE,2045,129.257
+Chromium - Mining,Wind,NZE,2050,164.196
+Other low emissions power generation - Mining,Wind,STEPS,2024,175.21540000000002
+Other low emissions power generation - Mining,Wind,STEPS,2030,253.3563
+Other low emissions power generation - Mining,Wind,STEPS,2035,211.9396
+Other low emissions power generation - Mining,Wind,STEPS,2040,258.7564
+Other low emissions power generation - Mining,Wind,STEPS,2045,235.518
+Other low emissions power generation - Mining,Wind,STEPS,2050,207.505
+Other low emissions power generation - Mining,Wind,NZE,2030,363.404
+Other low emissions power generation - Mining,Wind,NZE,2035,352.875
+Other low emissions power generation - Mining,Wind,NZE,2040,357.504
+Other low emissions power generation - Mining,Wind,NZE,2045,354.116
+Other low emissions power generation - Mining,Wind,NZE,2050,385.4740000000001
+Other low emissions power generation - Mining,Wind,NZE,2030,541.947
+Other low emissions power generation - Mining,Wind,NZE,2035,538.803
+Other low emissions power generation - Mining,Wind,NZE,2040,467.121
+Other low emissions power generation - Mining,Wind,NZE,2045,372.924
+Other low emissions power generation - Mining,Wind,NZE,2050,300.317
+Other low emissions power generation - Mining,Wind,STEPS,2024,241.318
+Other low emissions power generation - Mining,Wind,STEPS,2030,349.697
+Other low emissions power generation - Mining,Wind,STEPS,2035,299.158
+Other low emissions power generation - Mining,Wind,STEPS,2040,333.514
+Other low emissions power generation - Mining,Wind,STEPS,2045,318.167
+Other low emissions power generation - Mining,Wind,STEPS,2050,311.013
+Other low emissions power generation - Mining,Wind,NZE,2030,496.236
+Other low emissions power generation - Mining,Wind,NZE,2035,474.417
+Other low emissions power generation - Mining,Wind,NZE,2040,465.634
+Other low emissions power generation - Mining,Wind,NZE,2045,466.688
+Other low emissions power generation - Mining,Wind,NZE,2050,538.859
+Other low emissions power generation - Mining,Wind,NZE,2030,714.971
+Other low emissions power generation - Mining,Wind,NZE,2035,726.405
+Other low emissions power generation - Mining,Wind,NZE,2040,604.696
+Other low emissions power generation - Mining,Wind,NZE,2045,502.181
+Other low emissions power generation - Mining,Wind,NZE,2050,464.513
+Copper - Mining,Solar PV,STEPS,2024,1657.2
+Copper - Mining,Solar PV,STEPS,2030,2373.69
+Copper - Mining,Solar PV,STEPS,2035,2242.63
+Copper - Mining,Solar PV,STEPS,2040,2230.22
+Copper - Mining,Solar PV,STEPS,2045,2177.88
+Copper - Mining,Solar PV,STEPS,2050,2377.17
+Copper - Mining,Solar PV,NZE,2030,2802.86
+Copper - Mining,Solar PV,NZE,2035,2725.89
+Copper - Mining,Solar PV,NZE,2040,2626.13
+Copper - Mining,Solar PV,NZE,2045,2448.43
+Copper - Mining,Solar PV,NZE,2050,2757.53
+Copper - Mining,Solar PV,NZE,2030,2848.78
+Copper - Mining,Solar PV,NZE,2035,3238.53
+Copper - Mining,Solar PV,NZE,2040,2569.66
+Copper - Mining,Solar PV,NZE,2045,2176.11
+Copper - Mining,Solar PV,NZE,2050,2733.59
+Copper - Mining,Wind,STEPS,2024,534.237
+Copper - Mining,Wind,STEPS,2030,809.777
+Copper - Mining,Wind,STEPS,2035,769.774
+Copper - Mining,Wind,STEPS,2040,622.768
+Copper - Mining,Wind,STEPS,2045,663.877
+Copper - Mining,Wind,STEPS,2050,816.863
+Copper - Mining,Wind,NZE,2030,1171.78
+Copper - Mining,Wind,NZE,2035,1038.17
+Copper - Mining,Wind,NZE,2040,919.443
+Copper - Mining,Wind,NZE,2045,967.969
+Copper - Mining,Wind,NZE,2050,1314.48
+Copper - Mining,Wind,NZE,2030,1527.38
+Copper - Mining,Wind,NZE,2035,1601.7
+Copper - Mining,Wind,NZE,2040,1126.01
+Copper - Mining,Wind,NZE,2045,1104.59
+Copper - Mining,Wind,NZE,2050,1378.82
+Other low emissions power generation - Mining,Wind,STEPS,2024,75.70299999999986
+Other low emissions power generation - Mining,Wind,STEPS,2030,118.8130000000001
+Other low emissions power generation - Mining,Wind,STEPS,2035,81.476
+Other low emissions power generation - Mining,Wind,STEPS,2040,85.52200000000039
+Other low emissions power generation - Mining,Wind,STEPS,2045,98.49299999999994
+Other low emissions power generation - Mining,Wind,STEPS,2050,95.90699999999993
+Other low emissions power generation - Mining,Wind,NZE,2030,165.7999999999995
+Other low emissions power generation - Mining,Wind,NZE,2035,154.55000000000018
+Other low emissions power generation - Mining,Wind,NZE,2040,134.78700000000003
+Other low emissions power generation - Mining,Wind,NZE,2045,137.41100000000006
+Other low emissions power generation - Mining,Wind,NZE,2050,121.13000000000012
+Other low emissions power generation - Mining,Wind,NZE,2030,220.00999999999976
+Other low emissions power generation - Mining,Wind,NZE,2035,232.16000000000008
+Other low emissions power generation - Mining,Wind,NZE,2040,175.27999999999997
+Other low emissions power generation - Mining,Wind,NZE,2045,139.10000000000014
+Other low emissions power generation - Mining,Wind,NZE,2050,118.31000000000016
+Electric vehicles - Mining,Wind,STEPS,2024,496.689
+Electric vehicles - Mining,Wind,STEPS,2030,1597.1
+Electric vehicles - Mining,Wind,STEPS,2035,2465.46
+Electric vehicles - Mining,Wind,STEPS,2040,2995.49
+Electric vehicles - Mining,Wind,STEPS,2045,3243.48
+Electric vehicles - Mining,Wind,STEPS,2050,3504.98
+Electric vehicles - Mining,Wind,NZE,2030,1789.0
+Electric vehicles - Mining,Wind,NZE,2035,3018.03
+Electric vehicles - Mining,Wind,NZE,2040,3976.45
+Electric vehicles - Mining,Wind,NZE,2045,4371.6
+Electric vehicles - Mining,Wind,NZE,2050,4743.33
+Electric vehicles - Mining,Wind,NZE,2030,2664.8
+Electric vehicles - Mining,Wind,NZE,2035,4588.81
+Electric vehicles - Mining,Wind,NZE,2040,5219.14
+Electric vehicles - Mining,Wind,NZE,2045,5520.63
+Electric vehicles - Mining,Wind,NZE,2050,5676.45
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,76.26
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,215.272
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,294.863
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,448.958
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,506.555
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,632.442
+Electric vehicles - Mining,Grid battery storage,NZE,2030,243.814
+Electric vehicles - Mining,Grid battery storage,NZE,2035,365.517
+Electric vehicles - Mining,Grid battery storage,NZE,2040,566.706
+Electric vehicles - Mining,Grid battery storage,NZE,2045,645.494
+Electric vehicles - Mining,Grid battery storage,NZE,2050,806.077
+Electric vehicles - Mining,Grid battery storage,NZE,2030,294.933
+Electric vehicles - Mining,Grid battery storage,NZE,2035,495.401
+Electric vehicles - Mining,Grid battery storage,NZE,2040,697.738
+Electric vehicles - Mining,Grid battery storage,NZE,2045,843.286
+Electric vehicles - Mining,Grid battery storage,NZE,2050,970.812
+Electric vehicles - Mining,Electricity networks,STEPS,2024,4928.986077070502
+Electric vehicles - Mining,Electricity networks,STEPS,2030,5824.522549313585
+Electric vehicles - Mining,Electricity networks,STEPS,2035,5686.398200691095
+Electric vehicles - Mining,Electricity networks,STEPS,2040,5744.7700706638025
+Electric vehicles - Mining,Electricity networks,STEPS,2045,5755.84429724005
+Electric vehicles - Mining,Electricity networks,STEPS,2050,5641.229816066083
+Electric vehicles - Mining,Electricity networks,NZE,2030,6543.377406913395
+Electric vehicles - Mining,Electricity networks,NZE,2035,7266.378719599726
+Electric vehicles - Mining,Electricity networks,NZE,2040,8073.418186515176
+Electric vehicles - Mining,Electricity networks,NZE,2045,7970.385178745631
+Electric vehicles - Mining,Electricity networks,NZE,2050,7479.409874532816
+Electric vehicles - Mining,Electricity networks,NZE,2030,7723.313860377344
+Electric vehicles - Mining,Electricity networks,NZE,2035,9342.37942743772
+Electric vehicles - Mining,Electricity networks,NZE,2040,9972.014306673129
+Electric vehicles - Mining,Electricity networks,NZE,2045,9567.85897627672
+Electric vehicles - Mining,Electricity networks,NZE,2050,8852.873421438964
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,0.0032992
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,0.0119271
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,0.0131684
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,0.0104
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,0.0100055
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,0.0136965
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,0.0830042
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,0.0819903
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,0.082371
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,0.115454
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,0.163263
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,0.187135
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,0.203227
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,0.173466
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,0.148932
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,0.19252
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,7737.022798473832
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,10909.949595041064
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,11539.621729070524
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,12162.357367023098
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,12461.739384097007
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,13041.83676358418
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,12577.797080015753
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,14579.46234286481
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,16351.629862104935
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,16623.910225361866
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,17176.365172063037
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,15165.6671586128
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,19420.127234147385
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,19845.60471172003
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,19406.82093708451
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,19678.60209560339
+Low emissions power generation - Mining,Hydrogen technologies,STEPS,2024,0.0151976
+Low emissions power generation - Mining,Hydrogen technologies,STEPS,2030,0.025922
+Low emissions power generation - Mining,Hydrogen technologies,STEPS,2035,0.0123183
+Low emissions power generation - Mining,Hydrogen technologies,STEPS,2040,0.0156733
+Low emissions power generation - Mining,Hydrogen technologies,STEPS,2045,0.0167405
+Low emissions power generation - Mining,Hydrogen technologies,STEPS,2050,0.0200919
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2030,0.0352111
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2035,0.03234
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2040,0.0278459
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2045,0.0246264
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2050,0.026114
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2030,0.0455717
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2035,0.0501194
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2040,0.0381249
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2045,0.02567
+Low emissions power generation - Mining,Hydrogen technologies,NZE,2050,0.0254272
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,66.5071
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,143.148
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,142.719
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,135.811
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,160.11
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,172.338
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,161.801
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,176.479
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,183.626
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,220.356
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,239.83
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,236.358
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,267.534
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,247.614
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,282.66
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,291.668
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,4.06092
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,5.0643
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,3.69918
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,0.0
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,0.0
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,0.0
+Electric vehicles - Mining,Grid battery storage,NZE,2030,5.73577
+Electric vehicles - Mining,Grid battery storage,NZE,2035,4.58555
+Electric vehicles - Mining,Grid battery storage,NZE,2040,0.0
+Electric vehicles - Mining,Grid battery storage,NZE,2045,0.0
+Electric vehicles - Mining,Grid battery storage,NZE,2050,0.0
+Electric vehicles - Mining,Grid battery storage,NZE,2030,6.93834
+Electric vehicles - Mining,Grid battery storage,NZE,2035,6.215
+Electric vehicles - Mining,Grid battery storage,NZE,2040,0.0
+Electric vehicles - Mining,Grid battery storage,NZE,2045,0.0
+Electric vehicles - Mining,Grid battery storage,NZE,2050,0.0
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,0.00359176
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,0.00409554
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,0.00451973
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,0.00356799
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,0.00343121
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,0.00469507
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,0.0285021
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,0.0281413
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,0.0282596
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,0.0395929
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,0.0559656
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,0.0642585
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,0.0697531
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,0.0595121
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,0.0510738
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,0.0659947
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,70.5868
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,148.242
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,146.435
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,135.831
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,160.131
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,172.363
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,167.6
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,181.126
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,183.682
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,220.42
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,239.912
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,243.407
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,273.869
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,247.711
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,282.737
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,291.759
+Electric vehicles - Mining,Battery-grade graphite,STEPS,2024,838.949
+Electric vehicles - Mining,Battery-grade graphite,STEPS,2030,2590.96
+Electric vehicles - Mining,Battery-grade graphite,STEPS,2035,3478.11
+Electric vehicles - Mining,Battery-grade graphite,STEPS,2040,3325.78
+Electric vehicles - Mining,Battery-grade graphite,STEPS,2045,2592.57
+Electric vehicles - Mining,Battery-grade graphite,STEPS,2050,2115.07
+Electric vehicles - Mining,Battery-grade graphite,NZE,2030,2937.69
+Electric vehicles - Mining,Battery-grade graphite,NZE,2035,4311.41
+Electric vehicles - Mining,Battery-grade graphite,NZE,2040,4484.81
+Electric vehicles - Mining,Battery-grade graphite,NZE,2045,3569.38
+Electric vehicles - Mining,Battery-grade graphite,NZE,2050,2935.62
+Electric vehicles - Mining,Battery-grade graphite,NZE,2030,4457.94
+Electric vehicles - Mining,Battery-grade graphite,NZE,2035,6738.2
+Electric vehicles - Mining,Battery-grade graphite,NZE,2040,6200.13
+Electric vehicles - Mining,Battery-grade graphite,NZE,2045,4894.37
+Electric vehicles - Mining,Battery-grade graphite,NZE,2050,3833.09
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,163.561
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,371.702
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,464.764
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,637.54
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,667.461
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,786.089
+Electric vehicles - Mining,Grid battery storage,NZE,2030,420.986
+Electric vehicles - Mining,Grid battery storage,NZE,2035,576.128
+Electric vehicles - Mining,Grid battery storage,NZE,2040,804.748
+Electric vehicles - Mining,Grid battery storage,NZE,2045,850.532
+Electric vehicles - Mining,Grid battery storage,NZE,2050,1001.91
+Electric vehicles - Mining,Grid battery storage,NZE,2030,509.25
+Electric vehicles - Mining,Grid battery storage,NZE,2035,780.852
+Electric vehicles - Mining,Grid battery storage,NZE,2040,990.819
+Electric vehicles - Mining,Grid battery storage,NZE,2045,1111.15
+Electric vehicles - Mining,Grid battery storage,NZE,2050,1206.66
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2024,1002.51
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2030,2962.66
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2035,3942.87
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2040,3963.32
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2045,3260.03
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2050,2901.16
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2030,3358.67
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2035,4887.54
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2040,5289.55
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2045,4419.91
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2050,3937.53
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2030,4967.19
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2035,7519.05
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2040,7190.95
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2045,6005.52
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2050,5039.76
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2024,109.026
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2030,326.09
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2035,537.596
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2040,738.667
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2045,860.04
+Electric vehicles - Mining,Total battery-grade graphite,STEPS,2050,930.291
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2030,369.49
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2035,665.431
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2040,992.749
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2045,1173.38
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2050,1275.95
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2030,556.303
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2035,1023.66
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2040,1317.96
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2045,1496.95
+Electric vehicles - Mining,Total battery-grade graphite,NZE,2050,1546.5
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,18.975
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,42.6342
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,51.3793
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,70.0391
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,76.144
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,88.9949
+Electric vehicles - Mining,Grid battery storage,NZE,2030,48.287
+Electric vehicles - Mining,Grid battery storage,NZE,2035,63.6905
+Electric vehicles - Mining,Grid battery storage,NZE,2040,88.4083
+Electric vehicles - Mining,Grid battery storage,NZE,2045,97.0289
+Electric vehicles - Mining,Grid battery storage,NZE,2050,113.428
+Electric vehicles - Mining,Grid battery storage,NZE,2030,58.4109
+Electric vehicles - Mining,Grid battery storage,NZE,2035,86.3225
+Electric vehicles - Mining,Grid battery storage,NZE,2040,108.85
+Electric vehicles - Mining,Grid battery storage,NZE,2045,126.76
+Electric vehicles - Mining,Grid battery storage,NZE,2050,136.609
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,128.001
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,368.725
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,588.976
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,808.706
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,936.184
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,1019.29
+Electric vehicles - Mining,Grid battery storage,NZE,2030,417.777
+Electric vehicles - Mining,Grid battery storage,NZE,2035,729.121
+Electric vehicles - Mining,Grid battery storage,NZE,2040,1081.16
+Electric vehicles - Mining,Grid battery storage,NZE,2045,1270.41
+Electric vehicles - Mining,Grid battery storage,NZE,2050,1389.38
+Electric vehicles - Mining,Grid battery storage,NZE,2030,614.714
+Electric vehicles - Mining,Grid battery storage,NZE,2035,1109.99
+Electric vehicles - Mining,Grid battery storage,NZE,2040,1426.81
+Electric vehicles - Mining,Grid battery storage,NZE,2045,1623.71
+Electric vehicles - Mining,Grid battery storage,NZE,2050,1683.11
+Manganese - Mining,Wind,STEPS,2024,104.804
+Manganese - Mining,Wind,STEPS,2030,152.122
+Manganese - Mining,Wind,STEPS,2035,136.473
+Manganese - Mining,Wind,STEPS,2040,116.978
+Manganese - Mining,Wind,STEPS,2045,129.405
+Manganese - Mining,Wind,STEPS,2050,161.922
+Manganese - Mining,Wind,NZE,2030,208.873
+Manganese - Mining,Wind,NZE,2035,190.768
+Manganese - Mining,Wind,NZE,2040,169.013
+Manganese - Mining,Wind,NZE,2045,175.528
+Manganese - Mining,Wind,NZE,2050,238.835
+Manganese - Mining,Wind,NZE,2030,272.129
+Manganese - Mining,Wind,NZE,2035,294.564
+Manganese - Mining,Wind,NZE,2040,215.694
+Manganese - Mining,Wind,NZE,2045,201.728
+Manganese - Mining,Wind,NZE,2050,256.114
+Other low emissions power generation - Mining,Wind,STEPS,2024,16.641999999999996
+Other low emissions power generation - Mining,Wind,STEPS,2030,24.32299999999998
+Other low emissions power generation - Mining,Wind,STEPS,2035,28.724999999999994
+Other low emissions power generation - Mining,Wind,STEPS,2040,34.783
+Other low emissions power generation - Mining,Wind,STEPS,2045,34.257000000000005
+Other low emissions power generation - Mining,Wind,STEPS,2050,32.404
+Other low emissions power generation - Mining,Wind,NZE,2030,40.682000000000016
+Other low emissions power generation - Mining,Wind,NZE,2035,69.787
+Other low emissions power generation - Mining,Wind,NZE,2040,76.17699999999999
+Other low emissions power generation - Mining,Wind,NZE,2045,77.31
+Other low emissions power generation - Mining,Wind,NZE,2050,67.14500000000001
+Other low emissions power generation - Mining,Wind,NZE,2030,75.37
+Other low emissions power generation - Mining,Wind,NZE,2035,123.76599999999996
+Other low emissions power generation - Mining,Wind,NZE,2040,123.55300000000004
+Other low emissions power generation - Mining,Wind,NZE,2045,93.613
+Other low emissions power generation - Mining,Wind,NZE,2050,74.257
+Electric vehicles - Mining,Wind,STEPS,2024,60.3427
+Electric vehicles - Mining,Wind,STEPS,2030,356.468
+Electric vehicles - Mining,Wind,STEPS,2035,928.422
+Electric vehicles - Mining,Wind,STEPS,2040,1715.61
+Electric vehicles - Mining,Wind,STEPS,2045,2287.12
+Electric vehicles - Mining,Wind,STEPS,2050,2734.36
+Electric vehicles - Mining,Wind,NZE,2030,402.916
+Electric vehicles - Mining,Wind,NZE,2035,1145.8
+Electric vehicles - Mining,Wind,NZE,2040,2297.26
+Electric vehicles - Mining,Wind,NZE,2045,3101.11
+Electric vehicles - Mining,Wind,NZE,2050,3717.75
+Electric vehicles - Mining,Wind,NZE,2030,593.612
+Electric vehicles - Mining,Wind,NZE,2035,1713.8
+Electric vehicles - Mining,Wind,NZE,2040,2917.23
+Electric vehicles - Mining,Wind,NZE,2045,3780.8
+Electric vehicles - Mining,Wind,NZE,2050,4300.28
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,4.25056
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,68.8547
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,133.049
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,260.057
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,339.068
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,519.554
+Electric vehicles - Mining,Grid battery storage,NZE,2030,77.984
+Electric vehicles - Mining,Grid battery storage,NZE,2035,164.929
+Electric vehicles - Mining,Grid battery storage,NZE,2040,328.262
+Electric vehicles - Mining,Grid battery storage,NZE,2045,432.068
+Electric vehicles - Mining,Grid battery storage,NZE,2050,662.197
+Electric vehicles - Mining,Grid battery storage,NZE,2030,94.3342
+Electric vehicles - Mining,Grid battery storage,NZE,2035,223.536
+Electric vehicles - Mining,Grid battery storage,NZE,2040,404.162
+Electric vehicles - Mining,Grid battery storage,NZE,2045,564.462
+Electric vehicles - Mining,Grid battery storage,NZE,2050,797.527
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,186.039
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,601.768
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,1226.67
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,2127.43
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,2789.85
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,3448.24
+Electric vehicles - Mining,Grid battery storage,NZE,2030,730.454
+Electric vehicles - Mining,Grid battery storage,NZE,2035,1571.29
+Electric vehicles - Mining,Grid battery storage,NZE,2040,2870.72
+Electric vehicles - Mining,Grid battery storage,NZE,2045,3786.01
+Electric vehicles - Mining,Grid battery storage,NZE,2050,4685.92
+Electric vehicles - Mining,Grid battery storage,NZE,2030,1035.45
+Electric vehicles - Mining,Grid battery storage,NZE,2035,2355.66
+Electric vehicles - Mining,Grid battery storage,NZE,2040,3660.64
+Electric vehicles - Mining,Grid battery storage,NZE,2045,4640.6
+Electric vehicles - Mining,Grid battery storage,NZE,2050,5428.17
+Molybdenum - Mining,Solar PV,STEPS,2024,0.365964
+Molybdenum - Mining,Solar PV,STEPS,2030,0.561535
+Molybdenum - Mining,Solar PV,STEPS,2035,0.540882
+Molybdenum - Mining,Solar PV,STEPS,2040,0.5474
+Molybdenum - Mining,Solar PV,STEPS,2045,0.483471
+Molybdenum - Mining,Solar PV,STEPS,2050,0.476907
+Molybdenum - Mining,Solar PV,NZE,2030,0.637683
+Molybdenum - Mining,Solar PV,NZE,2035,0.606623
+Molybdenum - Mining,Solar PV,NZE,2040,0.571379
+Molybdenum - Mining,Solar PV,NZE,2045,0.456418
+Molybdenum - Mining,Solar PV,NZE,2050,0.446876
+Molybdenum - Mining,Solar PV,NZE,2030,0.607215
+Molybdenum - Mining,Solar PV,NZE,2035,0.660062
+Molybdenum - Mining,Solar PV,NZE,2040,0.515199
+Molybdenum - Mining,Solar PV,NZE,2045,0.365039
+Molybdenum - Mining,Solar PV,NZE,2050,0.384597
+Molybdenum - Mining,Wind,STEPS,2024,13.8282
+Molybdenum - Mining,Wind,STEPS,2030,20.1417
+Molybdenum - Mining,Wind,STEPS,2035,18.2102
+Molybdenum - Mining,Wind,STEPS,2040,15.6086
+Molybdenum - Mining,Wind,STEPS,2045,17.2578
+Molybdenum - Mining,Wind,STEPS,2050,21.6105
+Molybdenum - Mining,Wind,NZE,2030,27.7538
+Molybdenum - Mining,Wind,NZE,2035,25.388
+Molybdenum - Mining,Wind,NZE,2040,22.5728
+Molybdenum - Mining,Wind,NZE,2045,23.4917
+Molybdenum - Mining,Wind,NZE,2050,32.0022
+Molybdenum - Mining,Wind,NZE,2030,36.1526
+Molybdenum - Mining,Wind,NZE,2035,39.1889
+Molybdenum - Mining,Wind,NZE,2040,28.7325
+Molybdenum - Mining,Wind,NZE,2045,26.9772
+Molybdenum - Mining,Wind,NZE,2050,34.2666
+Other low emissions power generation - Mining,Wind,STEPS,2024,19.639336
+Other low emissions power generation - Mining,Wind,STEPS,2030,26.795065
+Other low emissions power generation - Mining,Wind,STEPS,2035,21.517818
+Other low emissions power generation - Mining,Wind,STEPS,2040,27.2939
+Other low emissions power generation - Mining,Wind,STEPS,2045,25.699829
+Other low emissions power generation - Mining,Wind,STEPS,2050,23.355293000000007
+Other low emissions power generation - Mining,Wind,NZE,2030,37.39631700000001
+Other low emissions power generation - Mining,Wind,NZE,2035,32.608177
+Other low emissions power generation - Mining,Wind,NZE,2040,34.446521
+Other low emissions power generation - Mining,Wind,NZE,2045,34.933282
+Other low emissions power generation - Mining,Wind,NZE,2050,41.13762399999999
+Other low emissions power generation - Mining,Wind,NZE,2030,55.30108500000001
+Other low emissions power generation - Mining,Wind,NZE,2035,49.148338
+Other low emissions power generation - Mining,Wind,NZE,2040,44.215901
+Other low emissions power generation - Mining,Wind,NZE,2045,36.178761
+Other low emissions power generation - Mining,Wind,NZE,2050,30.007903
+Other low emissions power generation - Mining,Wind,STEPS,2024,33.8335
+Other low emissions power generation - Mining,Wind,STEPS,2030,47.4983
+Other low emissions power generation - Mining,Wind,STEPS,2035,40.2689
+Other low emissions power generation - Mining,Wind,STEPS,2040,43.4499
+Other low emissions power generation - Mining,Wind,STEPS,2045,43.4411
+Other low emissions power generation - Mining,Wind,STEPS,2050,45.4427
+Other low emissions power generation - Mining,Wind,NZE,2030,65.7878
+Other low emissions power generation - Mining,Wind,NZE,2035,58.6028
+Other low emissions power generation - Mining,Wind,NZE,2040,57.5907
+Other low emissions power generation - Mining,Wind,NZE,2045,58.8814
+Other low emissions power generation - Mining,Wind,NZE,2050,73.5867
+Other low emissions power generation - Mining,Wind,NZE,2030,92.0609
+Other low emissions power generation - Mining,Wind,NZE,2035,88.9973
+Other low emissions power generation - Mining,Wind,NZE,2040,73.4636
+Other low emissions power generation - Mining,Wind,NZE,2045,63.521
+Other low emissions power generation - Mining,Wind,NZE,2050,64.6591
+Nickel - Mining,Solar PV,STEPS,2024,0.624415
+Nickel - Mining,Solar PV,STEPS,2030,0.879497
+Nickel - Mining,Solar PV,STEPS,2035,0.83336
+Nickel - Mining,Solar PV,STEPS,2040,0.829867
+Nickel - Mining,Solar PV,STEPS,2045,0.805901
+Nickel - Mining,Solar PV,STEPS,2050,0.8816
+Nickel - Mining,Solar PV,NZE,2030,1.04286
+Nickel - Mining,Solar PV,NZE,2035,1.02674
+Nickel - Mining,Solar PV,NZE,2040,0.99469
+Nickel - Mining,Solar PV,NZE,2045,0.921956
+Nickel - Mining,Solar PV,NZE,2050,1.03415
+Nickel - Mining,Solar PV,NZE,2030,1.09279
+Nickel - Mining,Solar PV,NZE,2035,1.25827
+Nickel - Mining,Solar PV,NZE,2040,0.986672
+Nickel - Mining,Solar PV,NZE,2045,0.824762
+Nickel - Mining,Solar PV,NZE,2050,1.02866
+Nickel - Mining,Wind,STEPS,2024,47.45
+Nickel - Mining,Wind,STEPS,2030,67.8446
+Nickel - Mining,Wind,STEPS,2035,59.4773
+Nickel - Mining,Wind,STEPS,2040,51.6289
+Nickel - Mining,Wind,STEPS,2045,56.9639
+Nickel - Mining,Wind,STEPS,2050,70.6355
+Nickel - Mining,Wind,NZE,2030,91.7809
+Nickel - Mining,Wind,NZE,2035,84.1904
+Nickel - Mining,Wind,NZE,2040,74.2226
+Nickel - Mining,Wind,NZE,2045,75.713
+Nickel - Mining,Wind,NZE,2050,101.647
+Nickel - Mining,Wind,NZE,2030,119.663
+Nickel - Mining,Wind,NZE,2035,130.195
+Nickel - Mining,Wind,NZE,2040,96.0446
+Nickel - Mining,Wind,NZE,2045,87.4069
+Nickel - Mining,Wind,NZE,2050,110.022
+Other low emissions power generation - Mining,Wind,STEPS,2024,174.14358499999997
+Other low emissions power generation - Mining,Wind,STEPS,2030,248.693903
+Other low emissions power generation - Mining,Wind,STEPS,2035,218.02734
+Other low emissions power generation - Mining,Wind,STEPS,2040,292.585233
+Other low emissions power generation - Mining,Wind,STEPS,2045,226.546199
+Other low emissions power generation - Mining,Wind,STEPS,2050,190.95590000000004
+Other low emissions power generation - Mining,Wind,NZE,2030,360.79124
+Other low emissions power generation - Mining,Wind,NZE,2035,352.50186
+Other low emissions power generation - Mining,Wind,NZE,2040,380.70071
+Other low emissions power generation - Mining,Wind,NZE,2045,357.731044
+Other low emissions power generation - Mining,Wind,NZE,2050,444.2208500000001
+Other low emissions power generation - Mining,Wind,NZE,2030,567.0012099999999
+Other low emissions power generation - Mining,Wind,NZE,2035,539.0237299999999
+Other low emissions power generation - Mining,Wind,NZE,2040,491.377728
+Other low emissions power generation - Mining,Wind,NZE,2045,381.897338
+Other low emissions power generation - Mining,Wind,NZE,2050,304.59434
+Electric vehicles - Mining,Wind,STEPS,2024,321.141
+Electric vehicles - Mining,Wind,STEPS,2030,959.08
+Electric vehicles - Mining,Wind,STEPS,2035,1558.79
+Electric vehicles - Mining,Wind,STEPS,2040,1843.3
+Electric vehicles - Mining,Wind,STEPS,2045,2057.08
+Electric vehicles - Mining,Wind,STEPS,2050,2145.51
+Electric vehicles - Mining,Wind,NZE,2030,1083.17
+Electric vehicles - Mining,Wind,NZE,2035,1921.94
+Electric vehicles - Mining,Wind,NZE,2040,2474.4
+Electric vehicles - Mining,Wind,NZE,2045,2802.7
+Electric vehicles - Mining,Wind,NZE,2050,2942.22
+Electric vehicles - Mining,Wind,NZE,2030,1560.25
+Electric vehicles - Mining,Wind,NZE,2035,2825.82
+Electric vehicles - Mining,Wind,NZE,2040,3153.33
+Electric vehicles - Mining,Wind,NZE,2045,3436.27
+Electric vehicles - Mining,Wind,NZE,2050,3427.53
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,16.9682
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,68.0387
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,110.791
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,188.62
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,245.927
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,376.834
+Electric vehicles - Mining,Grid battery storage,NZE,2030,77.0598
+Electric vehicles - Mining,Grid battery storage,NZE,2035,137.339
+Electric vehicles - Mining,Grid battery storage,NZE,2040,238.089
+Electric vehicles - Mining,Grid battery storage,NZE,2045,313.38
+Electric vehicles - Mining,Grid battery storage,NZE,2050,480.293
+Electric vehicles - Mining,Grid battery storage,NZE,2030,93.2163
+Electric vehicles - Mining,Grid battery storage,NZE,2035,186.141
+Electric vehicles - Mining,Grid battery storage,NZE,2040,293.14
+Electric vehicles - Mining,Grid battery storage,NZE,2045,409.405
+Electric vehicles - Mining,Grid battery storage,NZE,2050,578.448
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,1.39729
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,4.71493
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,5.19287
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,4.09258
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,3.92909
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,5.36723
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,32.8126
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,32.3324
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,32.4145
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,45.3379
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,63.9778
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,73.9767
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,80.1416
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,68.2618
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,58.4847
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,75.4428
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2024,561.724
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2030,1349.25
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2035,1953.11
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2040,2381.06
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2045,2591.25
+Electric vehicles - Mining,Hydrogen technologies,STEPS,2050,2790.18
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,1646.66
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,2529.33
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,3200.82
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,3595.78
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,4033.4
+Electric vehicles - Mining,Hydrogen technologies,NZE,2030,2415.2
+Electric vehicles - Mining,Hydrogen technologies,NZE,2035,3762.58
+Electric vehicles - Mining,Hydrogen technologies,NZE,2040,4103.14
+Electric vehicles - Mining,Hydrogen technologies,NZE,2045,4374.29
+Electric vehicles - Mining,Hydrogen technologies,NZE,2050,4497.07
+PGMs - Mining,Hydrogen technologies,STEPS,2024,0.00123991
+PGMs - Mining,Hydrogen technologies,STEPS,2030,0.00711477
+PGMs - Mining,Hydrogen technologies,STEPS,2035,0.0145957
+PGMs - Mining,Hydrogen technologies,STEPS,2040,0.0199101
+PGMs - Mining,Hydrogen technologies,STEPS,2045,0.0204145
+PGMs - Mining,Hydrogen technologies,STEPS,2050,0.0192889
+PGMs - Mining,Hydrogen technologies,NZE,2030,0.0133251
+PGMs - Mining,Hydrogen technologies,NZE,2035,0.0287233
+PGMs - Mining,Hydrogen technologies,NZE,2040,0.0614349
+PGMs - Mining,Hydrogen technologies,NZE,2045,0.0641893
+PGMs - Mining,Hydrogen technologies,NZE,2050,0.0528508
+PGMs - Mining,Hydrogen technologies,NZE,2030,0.029557
+PGMs - Mining,Hydrogen technologies,NZE,2035,0.0493414
+PGMs - Mining,Hydrogen technologies,NZE,2040,0.0793426
+PGMs - Mining,Hydrogen technologies,NZE,2045,0.0878282
+PGMs - Mining,Hydrogen technologies,NZE,2050,0.0824442
+PGMs - Mining,Hydrogen technologies,STEPS,2024,0.00123991
+PGMs - Mining,Hydrogen technologies,STEPS,2030,0.00711477
+PGMs - Mining,Hydrogen technologies,STEPS,2035,0.0145957
+PGMs - Mining,Hydrogen technologies,STEPS,2040,0.0199101
+PGMs - Mining,Hydrogen technologies,STEPS,2045,0.0204145
+PGMs - Mining,Hydrogen technologies,STEPS,2050,0.0192889
+PGMs - Mining,Hydrogen technologies,NZE,2030,0.0133251
+PGMs - Mining,Hydrogen technologies,NZE,2035,0.0287233
+PGMs - Mining,Hydrogen technologies,NZE,2040,0.0614349
+PGMs - Mining,Hydrogen technologies,NZE,2045,0.0641893
+PGMs - Mining,Hydrogen technologies,NZE,2050,0.0528508
+PGMs - Mining,Hydrogen technologies,NZE,2030,0.029557
+PGMs - Mining,Hydrogen technologies,NZE,2035,0.0493414
+PGMs - Mining,Hydrogen technologies,NZE,2040,0.0793426
+PGMs - Mining,Hydrogen technologies,NZE,2045,0.0878282
+PGMs - Mining,Hydrogen technologies,NZE,2050,0.0824442
+Silicon - Mining,Solar PV,STEPS,2024,1480.78
+Silicon - Mining,Solar PV,STEPS,2030,1652.11
+Silicon - Mining,Solar PV,STEPS,2035,1488.45
+Silicon - Mining,Solar PV,STEPS,2040,1426.41
+Silicon - Mining,Solar PV,STEPS,2045,1325.53
+Silicon - Mining,Solar PV,STEPS,2050,1368.34
+Silicon - Mining,Solar PV,NZE,2030,1959.6
+Silicon - Mining,Solar PV,NZE,2035,1816.29
+Silicon - Mining,Solar PV,NZE,2040,1684.14
+Silicon - Mining,Solar PV,NZE,2045,1494.27
+Silicon - Mining,Solar PV,NZE,2050,1594.38
+Silicon - Mining,Solar PV,NZE,2030,2062.61
+Silicon - Mining,Solar PV,NZE,2035,2192.63
+Silicon - Mining,Solar PV,NZE,2040,1663.5
+Silicon - Mining,Solar PV,NZE,2045,1314.86
+Silicon - Mining,Solar PV,NZE,2050,1522.89
+Electric vehicles - Mining,Solar PV,STEPS,2024,18.5542
+Electric vehicles - Mining,Solar PV,STEPS,2030,105.679
+Electric vehicles - Mining,Solar PV,STEPS,2035,276.709
+Electric vehicles - Mining,Solar PV,STEPS,2040,404.743
+Electric vehicles - Mining,Solar PV,STEPS,2045,584.218
+Electric vehicles - Mining,Solar PV,STEPS,2050,745.186
+Electric vehicles - Mining,Solar PV,NZE,2030,119.49
+Electric vehicles - Mining,Solar PV,NZE,2035,341.542
+Electric vehicles - Mining,Solar PV,NZE,2040,542.671
+Electric vehicles - Mining,Solar PV,NZE,2045,793.432
+Electric vehicles - Mining,Solar PV,NZE,2050,1015.11
+Electric vehicles - Mining,Solar PV,NZE,2030,173.027
+Electric vehicles - Mining,Solar PV,NZE,2035,509.667
+Electric vehicles - Mining,Solar PV,NZE,2040,704.093
+Electric vehicles - Mining,Solar PV,NZE,2045,983.366
+Electric vehicles - Mining,Solar PV,NZE,2050,1203.1
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,0.51718
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,3.96147
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,6.56303
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,12.1207
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,16.2855
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,20.4982
+Electric vehicles - Mining,Grid battery storage,NZE,2030,4.48672
+Electric vehicles - Mining,Grid battery storage,NZE,2035,8.13563
+Electric vehicles - Mining,Grid battery storage,NZE,2040,15.2995
+Electric vehicles - Mining,Grid battery storage,NZE,2045,20.7523
+Electric vehicles - Mining,Grid battery storage,NZE,2050,26.126
+Electric vehicles - Mining,Grid battery storage,NZE,2030,5.42741
+Electric vehicles - Mining,Grid battery storage,NZE,2035,11.0266
+Electric vehicles - Mining,Grid battery storage,NZE,2040,18.837
+Electric vehicles - Mining,Grid battery storage,NZE,2045,27.1113
+Electric vehicles - Mining,Grid battery storage,NZE,2050,31.4652
+Electric vehicles - Mining,Grid battery storage,STEPS,2024,1499.85
+Electric vehicles - Mining,Grid battery storage,STEPS,2030,1761.75
+Electric vehicles - Mining,Grid battery storage,STEPS,2035,1771.72
+Electric vehicles - Mining,Grid battery storage,STEPS,2040,1843.28
+Electric vehicles - Mining,Grid battery storage,STEPS,2045,1926.03
+Electric vehicles - Mining,Grid battery storage,STEPS,2050,2134.03
+Electric vehicles - Mining,Grid battery storage,NZE,2030,2083.58
+Electric vehicles - Mining,Grid battery storage,NZE,2035,2165.97
+Electric vehicles - Mining,Grid battery storage,NZE,2040,2242.11
+Electric vehicles - Mining,Grid battery storage,NZE,2045,2308.45
+Electric vehicles - Mining,Grid battery storage,NZE,2050,2635.61
+Electric vehicles - Mining,Grid battery storage,NZE,2030,2241.07
+Electric vehicles - Mining,Grid battery storage,NZE,2035,2713.33
+Electric vehicles - Mining,Grid battery storage,NZE,2040,2386.43
+Electric vehicles - Mining,Grid battery storage,NZE,2045,2325.34
+Electric vehicles - Mining,Grid battery storage,NZE,2050,2757.45
+Silver - Mining,Solar PV,STEPS,2024,8.97542
+Silver - Mining,Solar PV,STEPS,2030,10.4762
+Silver - Mining,Solar PV,STEPS,2035,8.22686
+Silver - Mining,Solar PV,STEPS,2040,6.50225
+Silver - Mining,Solar PV,STEPS,2045,4.68351
+Silver - Mining,Solar PV,STEPS,2050,3.33768
+Silver - Mining,Solar PV,NZE,2030,12.1456
+Silver - Mining,Solar PV,NZE,2035,9.6425
+Silver - Mining,Solar PV,NZE,2040,7.05819
+Silver - Mining,Solar PV,NZE,2045,4.39629
+Silver - Mining,Solar PV,NZE,2050,2.47468
+Silver - Mining,Solar PV,NZE,2030,12.6834
+Silver - Mining,Solar PV,NZE,2035,11.6537
+Silver - Mining,Solar PV,NZE,2040,6.73241
+Silver - Mining,Solar PV,NZE,2045,3.5509
+Silver - Mining,Solar PV,NZE,2050,1.73261
+Other low emissions power generation - Mining,Solar PV,STEPS,2024,0.019820000000001
+Other low emissions power generation - Mining,Solar PV,STEPS,2030,0.0373999999999998
+Other low emissions power generation - Mining,Solar PV,STEPS,2035,0.0592500000000004
+Other low emissions power generation - Mining,Solar PV,STEPS,2040,0.0642699999999996
+Other low emissions power generation - Mining,Solar PV,STEPS,2045,0.0637699999999998
+Other low emissions power generation - Mining,Solar PV,STEPS,2050,0.0593799999999999
+Other low emissions power generation - Mining,Solar PV,NZE,2030,0.0756999999999994
+Other low emissions power generation - Mining,Solar PV,NZE,2035,0.178609999999999
+Other low emissions power generation - Mining,Solar PV,NZE,2040,0.1861199999999998
+Other low emissions power generation - Mining,Solar PV,NZE,2045,0.1866100000000008
+Other low emissions power generation - Mining,Solar PV,NZE,2050,0.1362699999999996
+Other low emissions power generation - Mining,Solar PV,NZE,2030,0.1565999999999991
+Other low emissions power generation - Mining,Solar PV,NZE,2035,0.3254000000000001
+Other low emissions power generation - Mining,Solar PV,NZE,2040,0.3155100000000006
+Other low emissions power generation - Mining,Solar PV,NZE,2045,0.2338300000000002
+Other low emissions power generation - Mining,Solar PV,NZE,2050,0.1808799999999999
+Other low emissions power generation - Mining,Solar PV,STEPS,2024,8.99524
+Other low emissions power generation - Mining,Solar PV,STEPS,2030,10.5136
+Other low emissions power generation - Mining,Solar PV,STEPS,2035,8.28611
+Other low emissions power generation - Mining,Solar PV,STEPS,2040,6.56652
+Other low emissions power generation - Mining,Solar PV,STEPS,2045,4.74728
+Other low emissions power generation - Mining,Solar PV,STEPS,2050,3.39706
+Other low emissions power generation - Mining,Solar PV,NZE,2030,12.2213
+Other low emissions power generation - Mining,Solar PV,NZE,2035,9.82111
+Other low emissions power generation - Mining,Solar PV,NZE,2040,7.24431
+Other low emissions power generation - Mining,Solar PV,NZE,2045,4.5829
+Other low emissions power generation - Mining,Solar PV,NZE,2050,2.61095
+Other low emissions power generation - Mining,Solar PV,NZE,2030,12.84
+Other low emissions power generation - Mining,Solar PV,NZE,2035,11.9791
+Other low emissions power generation - Mining,Solar PV,NZE,2040,7.04792
+Other low emissions power generation - Mining,Solar PV,NZE,2045,3.78473
+Other low emissions power generation - Mining,Solar PV,NZE,2050,1.91349
+Zinc - Mining,Solar PV,STEPS,2024,15.0314
+Zinc - Mining,Solar PV,STEPS,2030,21.2654
+Zinc - Mining,Solar PV,STEPS,2035,20.2356
+Zinc - Mining,Solar PV,STEPS,2040,20.245
+Zinc - Mining,Solar PV,STEPS,2045,19.7407
+Zinc - Mining,Solar PV,STEPS,2050,21.7
+Zinc - Mining,Solar PV,NZE,2030,25.2183
+Zinc - Mining,Solar PV,NZE,2035,24.9428
+Zinc - Mining,Solar PV,NZE,2040,24.2841
+Zinc - Mining,Solar PV,NZE,2045,22.603
+Zinc - Mining,Solar PV,NZE,2050,25.4712
+Zinc - Mining,Solar PV,NZE,2030,26.448
+Zinc - Mining,Solar PV,NZE,2035,30.5995
+Zinc - Mining,Solar PV,NZE,2040,24.102
+Zinc - Mining,Solar PV,NZE,2045,20.2266
+Zinc - Mining,Solar PV,NZE,2050,25.3411
+Zinc - Mining,Wind,STEPS,2024,734.753
+Zinc - Mining,Wind,STEPS,2030,1065.92
+Zinc - Mining,Wind,STEPS,2035,955.132
+Zinc - Mining,Wind,STEPS,2040,818.697
+Zinc - Mining,Wind,STEPS,2045,905.738
+Zinc - Mining,Wind,STEPS,2050,1133.21
+Zinc - Mining,Wind,NZE,2030,1462.78
+Zinc - Mining,Wind,NZE,2035,1335.67
+Zinc - Mining,Wind,NZE,2040,1182.7
+Zinc - Mining,Wind,NZE,2045,1227.9
+Zinc - Mining,Wind,NZE,2050,1670.45
+Zinc - Mining,Wind,NZE,2030,1905.83
+Zinc - Mining,Wind,NZE,2035,2062.5
+Zinc - Mining,Wind,NZE,2040,1509.97
+Zinc - Mining,Wind,NZE,2045,1411.35
+Zinc - Mining,Wind,NZE,2050,1791.72
+Other low emissions power generation - Mining,Wind,STEPS,2024,14.225599999999986
+Other low emissions power generation - Mining,Wind,STEPS,2030,19.124599999999877
+Other low emissions power generation - Mining,Wind,STEPS,2035,15.14440000000002
+Other low emissions power generation - Mining,Wind,STEPS,2040,16.934999999999945
+Other low emissions power generation - Mining,Wind,STEPS,2045,21.93029999999999
+Other low emissions power generation - Mining,Wind,STEPS,2050,22.34999999999991
+Other low emissions power generation - Mining,Wind,NZE,2030,27.001700000000028
+Other low emissions power generation - Mining,Wind,NZE,2035,29.127199999999903
+Other low emissions power generation - Mining,Wind,NZE,2040,29.8458999999998
+Other low emissions power generation - Mining,Wind,NZE,2045,33.06699999999978
+Other low emissions power generation - Mining,Wind,NZE,2050,29.45880000000011
+Other low emissions power generation - Mining,Wind,NZE,2030,39.932000000000016
+Other low emissions power generation - Mining,Wind,NZE,2035,48.37049999999999
+Other low emissions power generation - Mining,Wind,NZE,2040,45.37799999999993
+Other low emissions power generation - Mining,Wind,NZE,2045,36.76340000000005
+Other low emissions power generation - Mining,Wind,NZE,2050,31.24889999999982
+Other low emissions power generation - Mining,Wind,STEPS,2024,764.01
+Other low emissions power generation - Mining,Wind,STEPS,2030,1106.31
+Other low emissions power generation - Mining,Wind,STEPS,2035,990.512
+Other low emissions power generation - Mining,Wind,STEPS,2040,855.877
+Other low emissions power generation - Mining,Wind,STEPS,2045,947.409
+Other low emissions power generation - Mining,Wind,STEPS,2050,1177.26
+Other low emissions power generation - Mining,Wind,NZE,2030,1515.0
+Other low emissions power generation - Mining,Wind,NZE,2035,1389.74
+Other low emissions power generation - Mining,Wind,NZE,2040,1236.83
+Other low emissions power generation - Mining,Wind,NZE,2045,1283.57
+Other low emissions power generation - Mining,Wind,NZE,2050,1725.38
+Other low emissions power generation - Mining,Wind,NZE,2030,1972.21
+Other low emissions power generation - Mining,Wind,NZE,2035,2141.47
+Other low emissions power generation - Mining,Wind,NZE,2040,1579.45
+Other low emissions power generation - Mining,Wind,NZE,2045,1468.34
+Other low emissions power generation - Mining,Wind,NZE,2050,1848.31
+Neodymium - Mining,Wind,STEPS,2024,8.00102
+Neodymium - Mining,Wind,STEPS,2030,12.2748
+Neodymium - Mining,Wind,STEPS,2035,12.1851
+Neodymium - Mining,Wind,STEPS,2040,9.57133
+Neodymium - Mining,Wind,STEPS,2045,10.2469
+Neodymium - Mining,Wind,STEPS,2050,12.7805
+Neodymium - Mining,Wind,NZE,2030,18.0688
+Neodymium - Mining,Wind,NZE,2035,15.6076
+Neodymium - Mining,Wind,NZE,2040,13.6701
+Neodymium - Mining,Wind,NZE,2045,14.495
+Neodymium - Mining,Wind,NZE,2050,19.5382
+Neodymium - Mining,Wind,NZE,2030,23.1161
+Neodymium - Mining,Wind,NZE,2035,23.3022
+Neodymium - Mining,Wind,NZE,2040,15.6447
+Neodymium - Mining,Wind,NZE,2045,15.3924
+Neodymium - Mining,Wind,NZE,2050,18.5633
+Electric vehicles - Mining,Wind,STEPS,2024,6.56594
+Electric vehicles - Mining,Wind,STEPS,2030,17.0623
+Electric vehicles - Mining,Wind,STEPS,2035,23.6424
+Electric vehicles - Mining,Wind,STEPS,2040,26.6963
+Electric vehicles - Mining,Wind,STEPS,2045,28.9405
+Electric vehicles - Mining,Wind,STEPS,2050,31.1042
+Electric vehicles - Mining,Wind,NZE,2030,18.0874
+Electric vehicles - Mining,Wind,NZE,2035,27.1925
+Electric vehicles - Mining,Wind,NZE,2040,32.8915
+Electric vehicles - Mining,Wind,NZE,2045,36.2766
+Electric vehicles - Mining,Wind,NZE,2050,39.3205
+Electric vehicles - Mining,Wind,NZE,2030,25.1226
+Electric vehicles - Mining,Wind,NZE,2035,38.0856
+Electric vehicles - Mining,Wind,NZE,2040,38.913
+Electric vehicles - Mining,Wind,NZE,2045,40.6966
+Electric vehicles - Mining,Wind,NZE,2050,42.5522
+Electric vehicles - Mining,Wind,STEPS,2024,14.567
+Electric vehicles - Mining,Wind,STEPS,2030,29.3371
+Electric vehicles - Mining,Wind,STEPS,2035,35.8275
+Electric vehicles - Mining,Wind,STEPS,2040,36.2676
+Electric vehicles - Mining,Wind,STEPS,2045,39.1875
+Electric vehicles - Mining,Wind,STEPS,2050,43.8847
+Electric vehicles - Mining,Wind,NZE,2030,36.1562
+Electric vehicles - Mining,Wind,NZE,2035,42.8001
+Electric vehicles - Mining,Wind,NZE,2040,46.5616
+Electric vehicles - Mining,Wind,NZE,2045,50.7716
+Electric vehicles - Mining,Wind,NZE,2050,58.8587
+Electric vehicles - Mining,Wind,NZE,2030,48.2387
+Electric vehicles - Mining,Wind,NZE,2035,61.3878
+Electric vehicles - Mining,Wind,NZE,2040,54.5577
+Electric vehicles - Mining,Wind,NZE,2045,56.089
+Electric vehicles - Mining,Wind,NZE,2050,61.1155
