@@ -205,6 +205,17 @@ st.markdown("---")
 st.caption(
     "Data source: International Energy Agency (IEA), Critical Minerals Data Explorer. "
     "Scenarios: STEPS and NZE. "
-    "This dashboard is provided for research and analytical purposes."
+    "Dashboard version: v1.0 (2025). "
+    "Provided for research and analytical purposes."
 )
+with st.expander("How to cite this dashboard"):
+    st.markdown(
+        """
+        **Citation**  
+        Baruah, M. (2025). *IEA Critical Minerals Supply–Demand and Risk Dashboard* (v1.0).  
+        https://your-dashboard-url.streamlit.app
 
+        **Data source**  
+        International Energy Agency (IEA), Critical Minerals Data Explorer.
+        """
+    )
